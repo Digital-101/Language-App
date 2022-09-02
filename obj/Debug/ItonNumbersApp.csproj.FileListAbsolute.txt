@@ -1,0 +1,15 @@
+C:\Users\eyonoobonosd\Desktop\ItonCode\ItonNumbersApp\ItonNumbersApp\bin\Debug\ItonNumbersApp.exe.config
+C:\Users\eyonoobonosd\Desktop\ItonCode\ItonNumbersApp\ItonNumbersApp\bin\Debug\ItonNumbersApp.exe
+C:\Users\eyonoobonosd\Desktop\ItonCode\ItonNumbersApp\ItonNumbersApp\bin\Debug\ItonNumbersApp.pdb
+C:\Users\eyonoobonosd\Desktop\ItonCode\ItonNumbersApp\ItonNumbersApp\obj\Debug\ItonNumbersApp.Properties.Resources.resources
+C:\Users\eyonoobonosd\Desktop\ItonCode\ItonNumbersApp\ItonNumbersApp\obj\Debug\ItonNumbersApp.csproj.GenerateResource.Cache
+C:\Users\eyonoobonosd\Desktop\ItonCode\ItonNumbersApp\ItonNumbersApp\obj\Debug\ItonNumbersApp.exe
+C:\Users\eyonoobonosd\Desktop\ItonCode\ItonNumbersApp\ItonNumbersApp\obj\Debug\ItonNumbersApp.pdb
+C:\Users\eyonoobonosd\Desktop\ItonCode\ItonNumbersApp\ItonNumbersApp\obj\Debug\ItonNumbersApp.NkwaloItonForm.resources
+C:\Users\eyonoobonosd\Desktop\ItonCode\ItonNumbersApp\ItonNumbersApp\obj\Debug\ItonNumbersApp.TilItonForm.resources
+C:\Users\eyonoobonosd\Desktop\ItonCode\ItonNumbersApp\ItonNumbersApp\obj\Debug\ItonNumbersApp.YegleMaOtillForm.resources
+C:\Users\eyonoobonosd\Desktop\ItonCode\ItonNumbersApp\ItonNumbersApp\obj\Debug\ItonNumbersApp.VeMaNkatOtillForm.resources
+C:\Users\eyonoobonosd\Desktop\ItonCode\ItonNumbersApp\ItonNumbersApp\obj\Debug\ItonNumbersApp.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\ItonCode\ItonNumbersApp\ItonNumbersApp\bin\Debug\ItonNumbersApp.exe.config
+C:\Users\Admin\Desktop\ItonCode\ItonNumbersApp\ItonNumbersApp\obj\Debug\ItonNumbersApp.exe
+C:\Users\Admin\Desktop\ItonCode\ItonNumbersApp\ItonNumbersApp\obj\Debug\ItonNumbersApp.pdb

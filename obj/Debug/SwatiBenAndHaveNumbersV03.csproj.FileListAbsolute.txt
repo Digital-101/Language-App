@@ -1,0 +1,104 @@
+C:\Users\KG\Desktop\SwatiBeAndHaveNumbersV03\obj\Debug\SwatiBenAndHaveNumbersV03.csprojResolveAssemblyReference.cache
+C:\Users\KG\Desktop\SwatiBeAndHaveNumbersV03\obj\Debug\ItonBeAndHaveNumbersV03.ChooseHCINumbersItonForm.resources
+C:\Users\KG\Desktop\SwatiBeAndHaveNumbersV03\obj\Debug\ItonBeAndHaveNumbersV03.ChooseNumberOrWordsItonForm.resources
+C:\Users\KG\Desktop\SwatiBeAndHaveNumbersV03\obj\Debug\ItonBeAndHaveNumbersV03.ChooseVerbItonForm.resources
+C:\Users\KG\Desktop\SwatiBeAndHaveNumbersV03\obj\Debug\ItonNumbersApp.Properties.Resources.resources
+C:\Users\KG\Desktop\SwatiBeAndHaveNumbersV03\obj\Debug\ItonBeAndHaveNumbersV03.ChooseNumberItonForm.resources
+C:\Users\KG\Desktop\SwatiBeAndHaveNumbersV03\obj\Debug\ItonBeAndHaveNumbersV03.TeachMeWordsItonForm.resources
+C:\Users\KG\Desktop\SwatiBeAndHaveNumbersV03\obj\Debug\ItonBeAndHaveNumbersV03.TestMeNumbersItonForm.resources
+C:\Users\KG\Desktop\SwatiBeAndHaveNumbersV03\obj\Debug\ItonBeAndHaveNumbersV03.TeachMeNumbersItonForm.resources
+C:\Users\KG\Desktop\SwatiBeAndHaveNumbersV03\obj\Debug\ItonBeAndHaveNumbersV03.TestMeWordsItonForm.resources
+C:\Users\KG\Desktop\SwatiBeAndHaveNumbersV03\obj\Debug\SwatiBenAndHaveNumbersV03.csproj.GenerateResource.Cache
+C:\Users\KG\Desktop\SwatiBeAndHaveNumbersV03\obj\Debug\SwatiBenAndHaveNumbersV03.csproj.CoreCompileInputs.cache
+C:\Users\KG\Desktop\SwatiBeAndHaveNumbersV03\obj\Debug\ItonNumbersApp.exe
+C:\Users\KG\Desktop\SwatiBeAndHaveNumbersV03\obj\Debug\ItonNumbersApp.pdb
+C:\Users\KG\Desktop\SwatiBeAndHaveNumbersV03\bin\Debug\ItonNumbersApp.exe.config
+C:\Users\KG\Desktop\SwatiBeAndHaveNumbersV03\bin\Debug\ItonNumbersApp.exe
+C:\Users\KG\Desktop\SwatiBeAndHaveNumbersV03\bin\Debug\ItonNumbersApp.pdb
+F:\SwatiBeAndHaveNumbersV03\bin\Debug\ItonNumbersApp.exe.config
+F:\SwatiBeAndHaveNumbersV03\bin\Debug\ItonNumbersApp.exe
+F:\SwatiBeAndHaveNumbersV03\bin\Debug\ItonNumbersApp.pdb
+F:\SwatiBeAndHaveNumbersV03\obj\Debug\SwatiBenAndHaveNumbersV03.csprojResolveAssemblyReference.cache
+F:\SwatiBeAndHaveNumbersV03\obj\Debug\ItonBeAndHaveNumbersV03.ChooseHCINumbersItonForm.resources
+F:\SwatiBeAndHaveNumbersV03\obj\Debug\ItonBeAndHaveNumbersV03.ChooseNumberOrWordsItonForm.resources
+F:\SwatiBeAndHaveNumbersV03\obj\Debug\ItonBeAndHaveNumbersV03.ChooseVerbItonForm.resources
+F:\SwatiBeAndHaveNumbersV03\obj\Debug\ItonNumbersApp.Properties.Resources.resources
+F:\SwatiBeAndHaveNumbersV03\obj\Debug\ItonBeAndHaveNumbersV03.ChooseNumberItonForm.resources
+F:\SwatiBeAndHaveNumbersV03\obj\Debug\ItonBeAndHaveNumbersV03.TeachMeWordsItonForm.resources
+F:\SwatiBeAndHaveNumbersV03\obj\Debug\ItonBeAndHaveNumbersV03.TestMeNumbersItonForm.resources
+F:\SwatiBeAndHaveNumbersV03\obj\Debug\ItonBeAndHaveNumbersV03.TeachMeNumbersItonForm.resources
+F:\SwatiBeAndHaveNumbersV03\obj\Debug\ItonBeAndHaveNumbersV03.TestMeWordsItonForm.resources
+F:\SwatiBeAndHaveNumbersV03\obj\Debug\SwatiBenAndHaveNumbersV03.csproj.GenerateResource.Cache
+F:\SwatiBeAndHaveNumbersV03\obj\Debug\SwatiBenAndHaveNumbersV03.csproj.CoreCompileInputs.cache
+F:\SwatiBeAndHaveNumbersV03\obj\Debug\ItonNumbersApp.exe
+F:\SwatiBeAndHaveNumbersV03\obj\Debug\ItonNumbersApp.pdb
+C:\Users\KG\Desktop\Swati Projects\SwatiBeAndHaveNumbersV03\bin\Debug\SwatiBeAndHaveNumbersV03.exe.config
+C:\Users\KG\Desktop\Swati Projects\SwatiBeAndHaveNumbersV03\bin\Debug\SwatiBeAndHaveNumbersV03.exe
+C:\Users\KG\Desktop\Swati Projects\SwatiBeAndHaveNumbersV03\bin\Debug\SwatiBeAndHaveNumbersV03.pdb
+C:\Users\KG\Desktop\Swati Projects\SwatiBeAndHaveNumbersV03\obj\Debug\SwatiBenAndHaveNumbersV03.csprojResolveAssemblyReference.cache
+C:\Users\KG\Desktop\Swati Projects\SwatiBeAndHaveNumbersV03\obj\Debug\ItonBeAndHaveNumbersV03.ChooseHCINumbersItonForm.resources
+C:\Users\KG\Desktop\Swati Projects\SwatiBeAndHaveNumbersV03\obj\Debug\ItonBeAndHaveNumbersV03.ChooseNumberOrWordsItonForm.resources
+C:\Users\KG\Desktop\Swati Projects\SwatiBeAndHaveNumbersV03\obj\Debug\ItonBeAndHaveNumbersV03.ChooseVerbItonForm.resources
+C:\Users\KG\Desktop\Swati Projects\SwatiBeAndHaveNumbersV03\obj\Debug\SwatiBeAndHaveNumbersV03.Properties.Resources.resources
+C:\Users\KG\Desktop\Swati Projects\SwatiBeAndHaveNumbersV03\obj\Debug\ItonBeAndHaveNumbersV03.ChooseNumberItonForm.resources
+C:\Users\KG\Desktop\Swati Projects\SwatiBeAndHaveNumbersV03\obj\Debug\ItonBeAndHaveNumbersV03.TeachMeWordsItonForm.resources
+C:\Users\KG\Desktop\Swati Projects\SwatiBeAndHaveNumbersV03\obj\Debug\ItonBeAndHaveNumbersV03.TestMeNumbersItonForm.resources
+C:\Users\KG\Desktop\Swati Projects\SwatiBeAndHaveNumbersV03\obj\Debug\ItonBeAndHaveNumbersV03.TeachMeNumbersItonForm.resources
+C:\Users\KG\Desktop\Swati Projects\SwatiBeAndHaveNumbersV03\obj\Debug\ItonBeAndHaveNumbersV03.TestMeWordsItonForm.resources
+C:\Users\KG\Desktop\Swati Projects\SwatiBeAndHaveNumbersV03\obj\Debug\SwatiBenAndHaveNumbersV03.csproj.GenerateResource.Cache
+C:\Users\KG\Desktop\Swati Projects\SwatiBeAndHaveNumbersV03\obj\Debug\SwatiBenAndHaveNumbersV03.csproj.CoreCompileInputs.cache
+C:\Users\KG\Desktop\Swati Projects\SwatiBeAndHaveNumbersV03\obj\Debug\SwatiBeAndHaveNumbersV03.exe
+C:\Users\KG\Desktop\Swati Projects\SwatiBeAndHaveNumbersV03\obj\Debug\SwatiBeAndHaveNumbersV03.pdb
+C:\Users\Admin\Desktop\Kids\Swati\Desktop\SwatiBeAndHaveNumbersV03\bin\Debug\SwatiBeAndHaveNumbersV03.exe.config
+C:\Users\Admin\Desktop\Kids\Swati\Desktop\SwatiBeAndHaveNumbersV03\obj\Debug\SwatiBeAndHaveNumbersV03.exe
+C:\Users\Admin\Desktop\Kids\Swati\Desktop\SwatiBeAndHaveNumbersV03\obj\Debug\SwatiBeAndHaveNumbersV03.pdb
+C:\Users\Admin\Desktop\Kids\Swati\Desktop\SwatiBeAndHaveNumbersV03\bin\Debug\SwatiBeAndHaveNumbersV03.exe
+C:\Users\Admin\Desktop\Kids\Swati\Desktop\SwatiBeAndHaveNumbersV03\bin\Debug\SwatiBeAndHaveNumbersV03.pdb
+C:\Users\Admin\Desktop\Kids\Swati\Desktop\SwatiBeAndHaveNumbersV03\obj\Debug\SwatiBenAndHaveNumbersV03.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Kids\Swati\Desktop\SwatiBeAndHaveNumbersV03\obj\Debug\ItonBeAndHaveNumbersV03.ChooseHCINumbersItonForm.resources
+C:\Users\Admin\Desktop\Kids\Swati\Desktop\SwatiBeAndHaveNumbersV03\obj\Debug\ItonBeAndHaveNumbersV03.ChooseNumberOrWordsItonForm.resources
+C:\Users\Admin\Desktop\Kids\Swati\Desktop\SwatiBeAndHaveNumbersV03\obj\Debug\ItonBeAndHaveNumbersV03.ChooseVerbItonForm.resources
+C:\Users\Admin\Desktop\Kids\Swati\Desktop\SwatiBeAndHaveNumbersV03\obj\Debug\SwatiBeAndHaveNumbersV03.Properties.Resources.resources
+C:\Users\Admin\Desktop\Kids\Swati\Desktop\SwatiBeAndHaveNumbersV03\obj\Debug\ItonBeAndHaveNumbersV03.ChooseNumberItonForm.resources
+C:\Users\Admin\Desktop\Kids\Swati\Desktop\SwatiBeAndHaveNumbersV03\obj\Debug\ItonBeAndHaveNumbersV03.TeachMeWordsItonForm.resources
+C:\Users\Admin\Desktop\Kids\Swati\Desktop\SwatiBeAndHaveNumbersV03\obj\Debug\ItonBeAndHaveNumbersV03.TestMeNumbersItonForm.resources
+C:\Users\Admin\Desktop\Kids\Swati\Desktop\SwatiBeAndHaveNumbersV03\obj\Debug\ItonBeAndHaveNumbersV03.TeachMeNumbersItonForm.resources
+C:\Users\Admin\Desktop\Kids\Swati\Desktop\SwatiBeAndHaveNumbersV03\obj\Debug\ItonBeAndHaveNumbersV03.TestMeWordsItonForm.resources
+C:\Users\Admin\Desktop\Kids\Swati\Desktop\SwatiBeAndHaveNumbersV03\obj\Debug\SwatiBenAndHaveNumbersV03.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Swati\Desktop\SwatiBeAndHaveNumbersV03\bin\Debug\SwatiBeAndHaveNumbersV03.exe.config
+C:\Users\user\Desktop\Swati\Desktop\SwatiBeAndHaveNumbersV03\bin\Debug\SwatiBeAndHaveNumbersV03.exe
+C:\Users\user\Desktop\Swati\Desktop\SwatiBeAndHaveNumbersV03\bin\Debug\SwatiBeAndHaveNumbersV03.pdb
+C:\Users\user\Desktop\Swati\Desktop\SwatiBeAndHaveNumbersV03\obj\Debug\SwatiBeAndHaveNumbersV03.Properties.Resources.resources
+C:\Users\user\Desktop\Swati\Desktop\SwatiBeAndHaveNumbersV03\obj\Debug\SwatiBenAndHaveNumbersV03.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Swati\Desktop\SwatiBeAndHaveNumbersV03\obj\Debug\SwatiBenAndHaveNumbersV03.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Swati\Desktop\SwatiBeAndHaveNumbersV03\obj\Debug\SwatiBeAndHaveNumbersV03.exe
+C:\Users\user\Desktop\Swati\Desktop\SwatiBeAndHaveNumbersV03\obj\Debug\SwatiBeAndHaveNumbersV03.pdb
+C:\Users\user\Desktop\Swati\Desktop\SwatiBeAndHaveNumbersV03\obj\Debug\SwatiBenAndHaveNumbersV03.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Swati\Desktop\SwatiBeAndHaveNumbersV03\obj\Debug\SwatiBeAndHaveNumbersV03.HomeChooseLungaugeForm.resources
+C:\Users\user\Desktop\Swati\Desktop\SwatiBeAndHaveNumbersV03\obj\Debug\SwatiBeAndHaveNumbersV03.ChooseVerbItonForm.resources
+C:\Users\user\Desktop\Swati\Desktop\SwatiBeAndHaveNumbersV03\obj\Debug\SwatiBeAndHaveNumbersV03.TeachMeWordsItonForm.resources
+C:\Users\user\Desktop\Swati\Desktop\SwatiBeAndHaveNumbersV03\obj\Debug\SwatiBeAndHaveNumbersV03.ChooseNumberOrWordsForm.resources
+C:\Users\user\Desktop\Swati\Desktop\SwatiBeAndHaveNumbersV03\obj\Debug\SwatiBeAndHaveNumbersV03.TestMeWordsForm.resources
+C:\Users\user\Desktop\Swati\Desktop\SwatiBeAndHaveNumbersV03\obj\Debug\SwatiBeAndHaveNumbersV03.TeachMeNumbersForm.resources
+C:\Users\user\Desktop\Swati\Desktop\SwatiBeAndHaveNumbersV03\obj\Debug\SwatiBeAndHaveNumbersV03.ChooseHearReadWriteForm.resources
+C:\Users\user\Desktop\Swati\Desktop\SwatiBeAndHaveNumbersV03\obj\Debug\SwatiBeAndHaveNumbersV03.ChooseRangeForm.resources
+C:\Users\user\Desktop\Swati\Desktop\SwatiBeAndHaveNumbersV03\obj\Debug\SwatiBeAndHaveNumbersV03.TestMeNumbersForm.resources
+C:\Users\user\Documents\Prof'SProject\Swati\Desktop\SwatiBeAndHaveNumbersV03\bin\Debug\SwatiBeAndHaveNumbersV03.exe.config
+C:\Users\user\Documents\Prof'SProject\Swati\Desktop\SwatiBeAndHaveNumbersV03\bin\Debug\SwatiBeAndHaveNumbersV03.exe
+C:\Users\user\Documents\Prof'SProject\Swati\Desktop\SwatiBeAndHaveNumbersV03\bin\Debug\SwatiBeAndHaveNumbersV03.pdb
+C:\Users\user\Documents\Prof'SProject\Swati\Desktop\SwatiBeAndHaveNumbersV03\obj\Debug\SwatiBeAndHaveNumbersV03.ChooseHearReadWriteForm.resources
+C:\Users\user\Documents\Prof'SProject\Swati\Desktop\SwatiBeAndHaveNumbersV03\obj\Debug\SwatiBeAndHaveNumbersV03.ChooseNumberOrWordsForm.resources
+C:\Users\user\Documents\Prof'SProject\Swati\Desktop\SwatiBeAndHaveNumbersV03\obj\Debug\SwatiBeAndHaveNumbersV03.HomeChooseLungaugeForm.resources
+C:\Users\user\Documents\Prof'SProject\Swati\Desktop\SwatiBeAndHaveNumbersV03\obj\Debug\SwatiBeAndHaveNumbersV03.Properties.Resources.resources
+C:\Users\user\Documents\Prof'SProject\Swati\Desktop\SwatiBeAndHaveNumbersV03\obj\Debug\SwatiBeAndHaveNumbersV03.ChooseRangeForm.resources
+C:\Users\user\Documents\Prof'SProject\Swati\Desktop\SwatiBeAndHaveNumbersV03\obj\Debug\SwatiBeAndHaveNumbersV03.TestMeNumbersForm.resources
+C:\Users\user\Documents\Prof'SProject\Swati\Desktop\SwatiBeAndHaveNumbersV03\obj\Debug\SwatiBeAndHaveNumbersV03.TeachMeNumbersForm.resources
+C:\Users\user\Documents\Prof'SProject\Swati\Desktop\SwatiBeAndHaveNumbersV03\obj\Debug\SwatiBeAndHaveNumbersV03.TestMeWordsForm.resources
+C:\Users\user\Documents\Prof'SProject\Swati\Desktop\SwatiBeAndHaveNumbersV03\obj\Debug\SwatiBenAndHaveNumbersV03.csproj.GenerateResource.cache
+C:\Users\user\Documents\Prof'SProject\Swati\Desktop\SwatiBeAndHaveNumbersV03\obj\Debug\SwatiBenAndHaveNumbersV03.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Prof'SProject\Swati\Desktop\SwatiBeAndHaveNumbersV03\obj\Debug\SwatiBeAndHaveNumbersV03.exe
+C:\Users\user\Documents\Prof'SProject\Swati\Desktop\SwatiBeAndHaveNumbersV03\obj\Debug\SwatiBeAndHaveNumbersV03.pdb
+C:\Users\user\Documents\Prof'SProject\Swati\Desktop\SwatiBeAndHaveNumbersV03\obj\Debug\SwatiBenAndHaveNumbersV03.csprojAssemblyReference.cache
+C:\Users\user\Documents\Prof'SProject\Swati\Desktop\SwatiBeAndHaveNumbersV03\obj\Debug\SwatiBeAndHaveNumbersV03.ChooseVerbForm.resources
+C:\Users\user\Documents\Prof'SProject\Swati\Desktop\SwatiBeAndHaveNumbersV03\obj\Debug\SwatiBeAndHaveNumbersV03.TeachMeWordsForm.resources
+C:\Users\user\Documents\Prof'SProject\Swati\Desktop\SwatiBeAndHaveNumbersV03\obj\Debug\SwatiBeAndHaveNumbersV03.ZuluBodyForm.resources

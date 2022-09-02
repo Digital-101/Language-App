@@ -1,0 +1,12 @@
+C:\Users\Admin\Desktop\ItonCode\ItonNumbersApp\ItonNumbersAppV0I2\bin\Debug\ItonNumbersApp.exe.config
+C:\Users\Admin\Desktop\ItonCode\ItonNumbersApp\ItonNumbersAppV0I2\bin\Debug\ItonNumbersApp.exe
+C:\Users\Admin\Desktop\ItonCode\ItonNumbersApp\ItonNumbersAppV0I2\bin\Debug\ItonNumbersApp.pdb
+C:\Users\Admin\Desktop\ItonCode\ItonNumbersApp\ItonNumbersAppV0I2\obj\Debug\ItonNumbersAppV0I2.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\ItonCode\ItonNumbersApp\ItonNumbersAppV0I2\obj\Debug\ItonNumbersApp.Properties.Resources.resources
+C:\Users\Admin\Desktop\ItonCode\ItonNumbersApp\ItonNumbersAppV0I2\obj\Debug\ItonNumbersAppV0I2.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\ItonCode\ItonNumbersApp\ItonNumbersAppV0I2\obj\Debug\ItonNumbersApp.exe
+C:\Users\Admin\Desktop\ItonCode\ItonNumbersApp\ItonNumbersAppV0I2\obj\Debug\ItonNumbersApp.pdb
+C:\Users\Admin\Desktop\ItonCode\ItonNumbersApp\ItonNumbersAppV0I2\obj\Debug\ItonNumbersAppV0I2.NkwaloItonForm.resources
+C:\Users\Admin\Desktop\ItonCode\ItonNumbersApp\ItonNumbersAppV0I2\obj\Debug\ItonNumbersAppV0I2.TwabNwamoWoForm.resources
+C:\Users\Admin\Desktop\ItonCode\ItonNumbersApp\ItonNumbersAppV0I2\obj\Debug\ItonNumbersAppV0I2.VeMaNkatForm.resources
+C:\Users\Admin\Desktop\ItonCode\ItonNumbersApp\ItonNumbersAppV0I2\obj\Debug\ItonNumbersAppV0I2.YegleMaForm.resources

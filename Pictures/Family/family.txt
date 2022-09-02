@@ -1,0 +1,103 @@
+847. Family_Umndeni
+848.  This is a big family : Lona umndeni omkhulu
+849. I love my family  : Ngiyawuthanda umndeni wami
+850. This family is crazy  : Lomndeni uyahlanya
+851. Family is everything  : Umndeni uyikho konke
+852. Protect your family  : Vikela umndeni wakho
+853 Keep it in the family : Yigcine emndenini
+854 Welcome to the family : Siyakwamukela emndenini
+
+
+..............................................................................
+855.Father_Ubaba
+856. Our father is sick  : Ubaba wethu uyagula
+857. Where is your father : Uphi ubaba wakho
+858. I met my faher-in-law : Ngihlangane nobabezala wami
+859. Like father like son : Indodana ifuze ubaba
+
+...............................................................................
+860.Mother_Umama
+861 Her mother is very kind : Umama wakhe unomusa 
+862 What can you do without a mother: Ungayini ngaphandle kwamama
+863 She looks like her mother : Ufana nomama wakhe
+864. I learn from my mother : Ngifunda kumama wami
+
+
+...............................................................................
+865. Brother_Umfowethu
+866. Hello my brother : Sawubona mfowethu
+867. My brother likes soccer : Umfowethu uthanda ibhola likanobhutshuzwayo
+868. My brother is getting married : Umfowethu uyashada
+869. My brother is tall: Umfowethu mude
+
+
+...............................................................................
+870. Sister_Udadewethu
+871. Hello my sister : Sawubona dadewethu
+872. My sister likes netball : Udadewethu uthanda ibhola lomqankiswano
+873. My sister is getting married : Udadewethu uyashada
+874. I love my sister: Ngiyamthanda udadewethu
+
+
+...............................................................................
+875. Husband_Umyeni
+876. He is my husband : Ungumyeni wami
+877. That is her husband : Loya ngumyeni wakhe
+878. I love my husband : Ngiyamthanda umyeni wami.
+879. Her husband is back : Umyeni wakhe ubuyile
+
+................................................................
+880 Wife_Unkosikazi
+881.I have a beautiful wife : Nginonkosikazi omuhle
+882. I have two wives : Nginonkosikazi ababili
+883. His wife is lazy : Unkosikazi wakhe uyavilapha
+884. His wives are always fighting : Amakhosikazi akhe ahlezi elwa
+
+
+................................................................
+885 Uncle_Umalume
+886. How is my uncle? : Unjani umalume wami?
+887. My uncle is sick : Umalume uyagula
+888. I need to go see my uncle : Ngidinga ukuhamba ngiyobona umalume wami
+889. My uncle left yesterday : Umalume wami uhambile izolo 
+
+
+.................................................................................
+890 Aunt_Ubabekazi
+891.My aunt is cooking :Ubabekazi wami uyapheka
+892.My aunt visited me: Ubabekazi wami ungivakeshele
+893.That is his aunt : Ubabekazi wakhe loya
+894.Her aunt is rude : Ubebakazi wakhe uyeyisa  
+
+................................................................................
+895 Grandfather_umkhulu
+896.I miss my grandfather: Ngiyamukhumbula umkhulu wami
+897.My grandfather tells nice stories: umkhulu wami usixoxela indaba ezimnandi
+898.My grandfather is very old: umkhulu wami ugugile
+899.My grandfather is a hunter: Umkhulu wami uwumzingela
+
+
+................................................................................
+900 Concubine:Ishende
+901.He has a concubine: Une shende
+902.She is my concubine: Uyi shende lami
+903.I am going to visit my concubine: Ngiyovakashela ishende lami
+904.I love my concubine: Ngiyalithanda ishende lami
+
+
+..................................................................................
+905. Grandmother_ugogo
+906.My grandmother is very kind:Ugogo wami unenhliziyo enhle
+907.My grandmother sings well: ugogo wami ucula kahle
+908.Our grandmother cares for us:Ugogo wethu uyasinakekela
+909.My grnadmother is sewing:Ugogo wami uyathunga
+
+
+............................................................................
+910 God_Unkulunkulu
+
+911. I am telling the truth in the name of God: Ngiyakutshela egameni lika Nkulunkulu
+912. I believe in God: Ngiyakholelwa kuNkulunkulu
+913. There is only one God: Kukhona uNkulunkulu oyedwa
+914. By the grace of God: Ngomusa kaNkulunkulu
+915.God will provide: uNkulunkulu uzosipha
